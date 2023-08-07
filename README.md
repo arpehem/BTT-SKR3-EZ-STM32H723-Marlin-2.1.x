@@ -7,7 +7,7 @@ USB and SD cards both work. You can print from the screen, onboard USB, SD card 
 
 You will need to download the Marlin bugfix 2.1.x package.
 
-Platform.ini goes in the main marlin folder(Marlin-bugfix-2.1.x), the other 3 files go in the marlin sub folder (Marlin).
+Platform.ini goes in the main marlin folder(Marlin-bugfix-2.1.x), Config, Configuration.h and Configuration_adv.h go in the marlin sub folder (Marlin).
 
 Use VS code with the Marlin autobuild plugin and your printer should be good to go!
 
